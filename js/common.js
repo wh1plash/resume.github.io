@@ -14,6 +14,7 @@ $(document).ready(function() {
 	});
 
 	$(".section_header").animated("fadeInUp", "fadeOutDown");
+	$(".section_map").animated("fadeInUp", "fadeOutDown");
 
 	$(".animation_1").animated("flipInY", "fadeOutDown");
 	$(".animation_2").animated("fadeInLeft", "fadeOutDown");
